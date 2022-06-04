@@ -10,9 +10,9 @@ Esto abrira una nueva ventana en el navegador, donde se puede abrir el archivo `
 
 Antes de correr el codigo se deberan instalar las dependencias necesarias
 
-`
+```bash
 pip install scikit-image
 pip install sklearn
 pip install matplotlib
 pip install numpy
-`
+```
